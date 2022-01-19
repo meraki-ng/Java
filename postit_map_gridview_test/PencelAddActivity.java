@@ -1,4 +1,4 @@
-package unjuda.cafe24.com.postit_map_gridview_test;
+
 
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
