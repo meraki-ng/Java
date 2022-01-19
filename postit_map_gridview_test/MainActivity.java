@@ -1,4 +1,3 @@
-package unjuda.cafe24.com.postit_map_gridview_test;
 
 import android.Manifest;
 import android.content.DialogInterface;
